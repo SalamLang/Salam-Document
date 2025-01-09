@@ -6,4 +6,4 @@ If you are a Python lover, you can run `python -m SimpleHTTPServer 3000`. Otherw
 
 Salam Document: https://docs.salamlang.ir/
 
-Copyright 2024, Salam Language Team
+Copyright 2024-2025, Salam Language Team
