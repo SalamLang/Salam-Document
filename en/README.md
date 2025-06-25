@@ -10,4 +10,4 @@
 
 ...
 
-Copyright 2024, Salam Language Team
+Copyright 2024-2025, Salam Language Team
